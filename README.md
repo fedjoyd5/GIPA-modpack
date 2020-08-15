@@ -52,5 +52,5 @@ core mods :<ol>
 	<li>Patchouli</li>
 </ol></br>
 
-allocation mémoires (CONSEILLE) min : 1024 MB, max : 2048 MB
+allocation mÃ©moires (CONSEILLE) min : 2048 MB, max : 4096 MB
 </h5>
