@@ -1,4 +1,4 @@
-<h3>version 1.0.0</h3></br>
+<h3>version 1.1.0</h3></br>
 
 <h5>minecraft version : 1.12.2</br>
 forge version : 14.23.5.2854</br>
