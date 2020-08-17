@@ -1,4 +1,4 @@
-<h3>version 1.1.3</h3></br>
+<h3>version 1.1.4</h3></br>
 
 <h5>minecraft version : 1.12.2</br>
 forge version : 14.23.5.2854</br>
@@ -17,7 +17,7 @@ mods :<ol>
 	<li>Chest Transporter</li>
 	<li>Compact Drawers</li>
 	<li>Construct armory</li>
-	<li>Mo'creature</li>
+	<li>Extra Utilities 2</li>
 	<li>Industrial Craft 2</li>
 	<li>Iron Chest</li>
 	<li>JourneyMap</li>
@@ -42,6 +42,7 @@ core mods :<ol>
 	<li>AutoRegLib</li>
 	<li>Chameleon</li>
 	<li>CraftStudio API</li>
+	<li>CraftTweaker 2</li>
 	<li>Cucumber Library</li>
 	<li>DiscordRichPresence</li>
 	<li>Erdbeerbaer's Gui Lib</li>
@@ -49,8 +50,9 @@ core mods :<ol>
 	<li>IvToolkit</li>
 	<li>Mantle</li>
 	<li>Open Terrain Generator</li>
+	<li>Optifine</li>
 	<li>Patchouli</li>
 </ol></br>
 
-allocation mÃ©moires (CONSEILLE) min : 2048 MB, max : 4096 MB
+allocation mémoires (CONSEILLE) min : 2048 MB, max : 4096 MB
 </h5>
