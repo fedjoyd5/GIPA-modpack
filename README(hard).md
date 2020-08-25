@@ -1,4 +1,4 @@
-<h3>version 1.1.5</h3></br>
+<h3>version 1.1.5 (hard)</h3></br>
 
 <h5>minecraft version : 1.12.2</br>
 forge version : 14.23.5.2854</br>
@@ -68,6 +68,7 @@ mods :<ol>
 	<li>RFTools</li>
 	<li>Rustic</li>
 	<li>Simple Generators</li>
+	<li>Spice of Life</li>
 	<li>Storage Drawers</li>
 	<li>Thermal (Foundation, Expansion, Dynamics, Tinkering)</li>
 	<li>Tinker' Construct</li>
@@ -82,6 +83,7 @@ mods :<ol>
 </ol></br>
 
 core mods :<ol>
+	<li>AppleCore</li>
 	<li>AutoRegLib</li>
 	<li>Baubles</li>
 	<li>BD Lib</li>
